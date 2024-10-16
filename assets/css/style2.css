@@ -1,0 +1,338 @@
+@media screen and (min-width:320px) and (max-width:767px) {
+
+	.logo{
+      margin-left: -30px;
+      height: 40px;
+      width: 20px;
+      margin-top: 10px;
+	}
+    .logo1{
+     margin-top: -50px;
+    }
+}
+@media (max-width: 767px) {
+    .section-tittle h2 {
+        font-size:40px;
+        margin-top: 90px;
+    }    
+}
+
+@media (max-width: 767px) {
+    .testimonial-area  {
+        padding-top:80px;
+        padding-bottom: 130px;
+        margin-top: 500px;
+    }
+
+  .testimonial-area.testimonial-padding {
+        margin-top: -200px;
+    }
+}
+
+
+.blog_item_img:hover{
+  transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+   transition: transform .2s; /* Animation */
+}    
+.legal-practice-area{
+  margin-top: -150px;
+}
+
+.section-tittle h2::before {
+    position: absolute;
+    content: "";
+    width: 155px;
+    height: 5px;
+    background: #000080
+    right: 0;
+    background:  #000080;
+    left: 0;
+    bottom: 0;
+    margin: 0 auto;
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+}
+.wrapper1{
+ margin-top: -200px;
+}
+
+@media (max-width: 767px) {
+    .testimonial-padding {
+        padding-top:80px;
+        padding-bottom: 130px;
+        margin-top: -500px;
+    }
+}
+
+.testimonial-padding {
+  padding-top:74px;
+  padding-bottom: 130px;
+  margin-top: -330px;
+    }
+.logo1{
+      margin-top: 25px;
+
+    }    
+
+@media (max-width: 767px) {
+    .logo1{
+      margin-top: 18px;
+
+    }       
+
+img {
+    vertical-align: middle;
+    border-style: none;
+    }
+  }  
+
+.card-body{
+  background-color: #000080;
+}     
+
+.card-body h4{
+  color: white;
+  font-weight: bold;
+  align-items: center;
+  margin-left: 25px;
+  
+}
+
+.card-body:hover{
+  background-color: black;
+}
+
+
+.card-body h4:hover{
+  color: white;
+}
+
+.btn-primary{
+ margin: 10px;
+ color: white;
+ background-color: #000080;
+ color: white;
+}
+.btn-primary:hover{
+  background-color: whitesmoke;
+  color:white;
+}
+.testimonial-area.testimonial-padding {
+        margin-top: -200px;
+    }
+
+.card-body2 img{
+  transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+   transition: transform .2s; /* Animation */
+}
+
+@media (max-width: 767px) {
+   .card-body2 img{
+     width: 250px;
+ }
+} 
+@media (max-width: 991px) {
+    .contact-section {
+        padding: 100px 0 40px;
+    }
+
+    .section-tittle{
+        padding: 60px;
+    }
+
+    .card-body2{
+    margin-left: -50px;
+    }
+    .card-body1{
+    margin-left: -10px;
+    }
+}
+
+.card-body3{
+ font-weight: bold;
+ color: black;
+}
+.button{
+    margin: 10px;
+ color: white;
+ border-radius: 7px;
+ background-color: #000080;
+ height: 40px;
+}
+.button:hover{
+ background-color: whitesmoke;
+ color: #000080;
+}
+
+@media (max-width: 767px) {
+    .testimonial-area  {
+        padding-top:80px;
+        padding-bottom: 130px;
+        margin-top: 500px;
+    }
+
+  .testimonial-area.testimonial-padding {
+        margin-top: -150px;
+    }
+}
+
+@media (max-width: 767px) {
+    .logo1{
+    margin-left: 20px;
+    margin-top: -10px;
+    width: 290px;
+    }
+
+    .logo1 img {
+    vertical-align: middle;
+    border-style: none;
+    width: 290px;
+     height: 90px;
+    }
+}
+
+@media (max-width: 767px) {
+    .section-tittle h2 {
+        font-size:40px;
+        margin-top: 90px;
+        margin-left: -40px;
+    }    
+}
+
+@media (max-width: 767px) {
+    .section-tittle h2 {
+        font-size:40px;
+        margin-top: 90px;
+    }    
+}
+
+
+.about-low-area .about-caption p {
+    font-size: 15px;
+    padding-right: 19px;
+    color: #64676c;
+    line-height: 1.6;
+    margin-bottom: 63px;
+    /* padding-right:50px; */
+}
+
+.about-low-area .about-caption p {
+    font-size: 15px;
+    padding-right: 19px;
+    color: #64676c;
+    line-height: 1.6;
+    margin-bottom: 63px;
+    /* padding-right:50px; */
+    text-align: justify;
+}
+
+
+/*For fixed whatsapp logo css*/
+
+/* styles.css */
+
+.whatsapp-button {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    z-index: 1000; /* Ensures the button is on top of other content */
+}
+
+.whatsapp-button img {
+    width: 50px; /* Adjust size as needed */
+    height: auto; /* Maintains aspect ratio */
+    border-radius: 5px; /* Optional: for rounded corners */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3); /* Optional: adds a shadow */
+}
+.service-text1{
+    width: 60%;
+    padding: 20px 100px;
+}
+.back-img{
+    position: absolute;
+    top: -70px;
+    left: 240px;
+    z-index: -2;
+}
+.current{
+    font-weight:700;
+}
+@media screen and (min-width:320px) and (max-width:767px) {
+    .logo1{
+        margin: 0;
+        width: 100%;
+    }
+
+	.logo1 img{
+        width: 250px;
+        height: 100%;
+        padding: 10px ;
+    }
+    .header-area .slicknav_btn{
+        top:-49px;
+    }
+    .card-img{
+        height:260px;
+    }
+    .section-tittle{
+        padding: 0;
+    }
+    .section-padding{
+        padding-bottom:90px;
+        padding-top:90px;
+    }
+    .section-tittle h2{
+        margin: 0;
+    }
+    .row{
+        margin: 20px   !important;
+    }
+    .card-body2{
+        margin: 0;
+    }
+    .card-body2 img{
+        height: 100%;
+    }
+    .contact-section{
+        padding: 20px;
+    }
+    .col, .col-1, .col-10, .col-11, .col-12, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-auto, .col-lg, .col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-auto, .col-md, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-auto, .col-sm, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-auto, .col-xl, .col-xl-1, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-auto{
+        padding: 0;
+    }
+    .section-tittle h2{
+        margin:100px 0 0 0;
+    }
+    .section-padding30{
+        padding-bottom:0;
+    }
+     .service-text1{
+        width: 100%;
+        padding: 40px ;
+    }
+
+}
+h1, h2, h3, h4, h5, h6{
+    color:black;
+    font-weight:800;
+}
+.about-low-area .about-caption p{
+    color:black;
+}
+p{
+    color:black;
+}
+
+.blog_right_sidebar .post_category_widget .cat-list li {
+    padding-top:12px;
+}
+
+@media screen and (min-width:320px) and (max-width:767px) {
+{
+ .card-body h4 a{
+   margin-left: 10px;
+ }
+  
+}
