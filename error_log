@@ -1,0 +1,2 @@
+[14-Oct-2024 14:40:33 UTC] PHP Warning:  Undefined array key "number" in /home3/vermatranslogist/public_html/inquiry-sample/contact_process.php on line 7
+[14-Oct-2024 14:40:33 UTC] PHP Warning:  Undefined variable $csubject in /home3/vermatranslogist/public_html/inquiry-sample/contact_process.php on line 29
